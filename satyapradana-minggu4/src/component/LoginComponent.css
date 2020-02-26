@@ -1,0 +1,44 @@
+.judul{
+    text-align: center;
+}
+.kotak_login{
+	width: 350px;
+    height: 390px;
+    background: white;
+    margin: -10px auto;
+    padding: auto 10px;
+    border-style: solid;
+    border: 1px solid rgb(229 , 229 , 229);
+}
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing: border-box;
+    width: 50%;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+
+
+.tombol_login{
+	background: #46de4b;
+	width: 300px;
+	color: white;
+	font-size: 11pt;
+	border: none;
+	padding: 10px 20px;
+}
+
+h1{
+	text-align: center;
+	/*ketebalan font*/
+}
+.tombol_cancel{
+    background: #EE4822;
+    margin: -10px auto;
+	color: white;
+	font-size: 11pt;
+	width: auto;
+	border: none;
+    padding: 10px 20px;
+}
