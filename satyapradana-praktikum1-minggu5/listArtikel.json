@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1583413767680,
+      "nim": "1741720077",
+      "nama": "Achmad Satya Pradana",
+      "alamat": "Malang",
+      "hp": "1234123",
+      "angkatan": "17",
+      "status": "aktif"
+    },
+    {
+      "id": 1583413802870,
+      "nim": "1741720088",
+      "nama": "Achmad pradana",
+      "alamat": "Malang",
+      "hp": "123445454",
+      "angkatan": "17",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
