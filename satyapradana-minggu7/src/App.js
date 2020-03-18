@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import CreateTodo from './containers/CreateTodo'
 import Table from './containers/Table'
 import 'bootstrap/dist/css/bootstrap.css';
+
 class App extends Component {
   render() {
     return (
